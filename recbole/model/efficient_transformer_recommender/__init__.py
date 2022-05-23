@@ -1,0 +1,4 @@
+from recbole.model.efficient_transformer_recommender.mlpmixer import MLPMixer
+from recbole.model.efficient_transformer_recommender.gmlp import gMLP
+from recbole.model.efficient_transformer_recommender.linformer import Linformer
+
